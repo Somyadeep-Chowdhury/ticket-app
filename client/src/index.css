@@ -1,0 +1,66 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans",
+    "Droid Sans", "Helvetica Neue", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New", monospace;
+}
+
+/* .MuiAppBar-colorPrimary {
+  color: #fff;
+  background-color: black !important;
+}
+
+.Header-toolbar-18 {
+  min-height: 64px;
+  background-color: black !important;
+}
+.Header-toolbar-9 {
+  min-height: 64px;
+  background-color: black !important;
+} */
+.MuiListItem-gutters::after {
+  text-decoration: none;
+  background-color: red !important;
+}
+
+.MuiListItem-gutters::before {
+  text-decoration: none;
+  background-color: blue !important;
+}
+
+/* .modal.show .modal-dialog{
+  max-width: 1200px;
+} */
+.modal-header .close {
+  color: #fff !important;
+}
+
+.MuiAppBar-colorPrimary {
+  color: #fff !important;
+  background-color: black !important;
+}
+
+.Header-toolbar-18 {
+  min-height: 64px !important;
+  background-color: black !important;
+}
+
+.Header-toolbar-9 {
+  min-height: 64px !important;
+  background-color: black !important;
+}
+
+.jss18 {
+  min-height: 64px !important;
+  background: black !important;
+}
+
+.but-foot {
+  background: transparent;
+  border: none;
+}

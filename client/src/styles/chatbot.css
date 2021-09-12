@@ -1,0 +1,30 @@
+:root{
+    --blue: #0c5bac;
+}
+
+.rsc .rsc-float-button {
+    position: fixed;
+    background: var(--blue);
+}
+
+.rsc .rsc-container .rsc-header {
+    background: var(--blue);
+}
+
+.rsc .rsc-container .rsc-content .rsc-ts-bot .rsc-ts-bubble {
+    background: var(--blue);
+}
+
+.rsc .rsc-container .rsc-content .rsc-ts-user .rsc-ts-bubble {
+    background: #16171a36;
+    white-space: break-spaces;
+}
+
+.rsc .rsc-container .rsc-footer .rsc-submit-button {
+    fill: var(--blue);
+}
+
+.rsc .rsc-container .rsc-content .rsc-os .rsc-os-options .rsc-os-option .rsc-os-option-element {
+    background: var(--blue);
+    color: #fff;
+}

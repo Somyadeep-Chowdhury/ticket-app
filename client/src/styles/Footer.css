@@ -1,0 +1,85 @@
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background: #000 !important;
+  z-index: 999 !important;
+}
+
+.ibm-footer-image {
+  height: 20px !important;
+  margin-bottom: -10px !important;
+  margin-left: 0.07% !important;
+}
+
+.footer-text {
+  color: #ffffff;
+  text-align: center;
+  font-size: 15px;
+  margin-bottom: 5px;
+  margin-top: -15px !important;
+}
+
+.headingClass {
+  color: white !important;
+}
+
+.iconClass {
+  color: white !important;
+  font-size: 38px !important;
+}
+
+.rightopen {
+  margin-left: 305px;
+  margin-top: 100px;
+  margin-right: 30px;
+  margin-bottom: 100px;
+}
+
+.rightclose {
+  margin-top: 100px;
+  margin-left: 100px;
+  margin-right: 30px;
+  margin-bottom: 100px;
+}
+
+.icon-color {
+  color: white !important;
+}
+
+.heading {
+  margin: auto !important;
+  text-align: center;
+  font-size: 1.25rem !important;
+}
+
+.menu-heading {
+  color: white;
+  padding-right: 56px;
+  padding-top: 5px;
+  font-size: 1.25rem !important;
+
+}
+
+.user-name {
+  /* // float: left; */
+}
+
+.MuiAppBar-colorPrimary {
+  color: #fff;
+  background-color: black !important;
+}
+
+.tabClose {
+  margin-left: 52px !important;
+}
+
+/* // .Header-toolbar-18 {
+//   min-height: 64px;
+//   background-color: black !important;
+// }
+// .Header-toolbar-9 {
+//   min-height: 64px;
+//   background-color: black !important;
+// } */

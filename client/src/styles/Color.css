@@ -1,0 +1,17 @@
+.cellClass {
+    color: white;
+    width: 100px;
+    height: 35px;
+    justify-content: center !important;
+    margin-top: 10px !important;
+    padding-top: 8px !important;
+    margin: 0 auto !important;
+}
+.cellColor {
+    color: white;
+    width: 100px;
+    height: 35px;
+    text-align: center !important;
+    margin: 0 auto !important;
+    padding-top: 10px !important;
+}

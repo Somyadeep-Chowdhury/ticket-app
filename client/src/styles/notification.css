@@ -1,0 +1,13 @@
+.main-popUp {
+    position: relative;
+    top: 30px
+}
+
+.sendvia-label {
+    margin: auto 0;
+    max-width: 7.333333% !important;
+}
+
+.react-datepicker-wrapper{
+    display: block !important;
+}

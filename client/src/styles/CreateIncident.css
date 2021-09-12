@@ -1,0 +1,64 @@
+.createheader {
+    /* // background-color: white !important;
+    // background: linear-gradient(to top right, #b8860b 0%, #ffcc66 100%) !important; */
+    font-size: 18px;
+    font-weight: bold;
+    /* // color: white; */
+    color: #0c5bac !important;
+    /* background-color: #393939; */
+    border-bottom: 5px #0c5bac solid;
+}
+
+.createfooter {
+    background-color: white !important;
+}
+
+.date-input {
+    border: 1px solid #ced4da !important;
+}
+
+.main-card {
+    margin-bottom: 4%;
+    /* // box-shadow: 2px 2px 3px 3px #e9e7e2; */
+    z-index: 100;
+}
+
+.cardbody {
+    /* // height: 3%;
+    // overflow: auto; */
+}
+
+.btu-submit {
+    float: right;
+    /* // background-color: darkgoldenrod !important; */
+    background-color: #0c5bac !important;
+    color: white !important;
+    z-index: 100;
+    text-transform: capitalize !important;
+}
+
+.spinnerClass {
+    /* // float: right !important;
+    // margin-left: 95% !important; */
+}
+
+.worktype {
+    margin-left: 11px !important;
+}
+
+.modal-idle {
+    margin: 10% auto;
+}
+
+.verify {
+    position: absolute;
+    font-size: 16px;
+    margin: 10px 5px;
+    right: 5px;
+    cursor: pointer;
+}
+
+.verify:hover {
+    color: blue;
+    text-decoration: underline;
+}

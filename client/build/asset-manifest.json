@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d8877910.chunk.css",
+    "main.js": "/static/js/main.09959d9d.chunk.js",
+    "main.js.map": "/static/js/main.09959d9d.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.a7485ca4.js",
+    "runtime-main.js.map": "/static/js/runtime-main.a7485ca4.js.map",
+    "static/css/2.c5792c5f.chunk.css": "/static/css/2.c5792c5f.chunk.css",
+    "static/js/2.e03b4333.chunk.js": "/static/js/2.e03b4333.chunk.js",
+    "static/js/2.e03b4333.chunk.js.map": "/static/js/2.e03b4333.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.c5792c5f.chunk.css.map": "/static/css/2.c5792c5f.chunk.css.map",
+    "static/css/main.d8877910.chunk.css.map": "/static/css/main.d8877910.chunk.css.map",
+    "static/js/2.e03b4333.chunk.js.LICENSE.txt": "/static/js/2.e03b4333.chunk.js.LICENSE.txt",
+    "static/media/IBM_white.879438fe.png": "/static/media/IBM_white.879438fe.png",
+    "static/media/Login.css": "/static/media/data1.7897336b.jpg",
+    "static/media/ibm.e94aa12b.png": "/static/media/ibm.e94aa12b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a7485ca4.js",
+    "static/css/2.c5792c5f.chunk.css",
+    "static/js/2.e03b4333.chunk.js",
+    "static/css/main.d8877910.chunk.css",
+    "static/js/main.09959d9d.chunk.js"
+  ]
+}

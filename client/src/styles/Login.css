@@ -1,0 +1,79 @@
+.backgroundClass {
+  background-image: url("../images/data1.jpg");
+  background-repeat: no-repeat;
+  height: 100vh;
+  background-size: cover !important;
+}
+.loginDiv {
+  width: 50%;
+  margin-left: 38.7%;
+  padding-top: 5%;
+}
+.ibm-image {
+  float: left;
+  height: 80px;
+}
+.labelClass {
+  color: #ffffff;
+  font-size: 18px;
+}
+.header {
+  overflow: hidden;
+    background: transparent;
+    top: 0;
+    left: 0;
+    position: fixed;
+    z-index: 5;
+}
+.loginButtonClass {
+  background: #474748 !important;
+  border: none !important;
+  width: 30%;
+  margin-left: 7%;
+  font-weight: bold !important;
+  font-size: 18px !important;
+}
+.btn-primary:hover {
+  color: #fff;
+  box-shadow: 0 0 6px #ffffff52 !important;
+}
+.headingClass {
+  height: auto;
+  font-weight: bold;
+  font-size: 50px;
+  color: darkgoldenrod;
+  font-family: monospace;
+  padding-top: 9%;
+  text-align: center;
+}
+.footer {
+  left: 0;
+  bottom: 0;
+  background: #124f44cf !important;
+  padding: 10px;
+  width: 100%;
+}
+.text-footer {
+  padding-right: 10px !important;
+  color: white !important;
+  text-decoration: none !important;
+  float: left;
+  font-size: 16px;
+  margin-left: 20px;
+  padding: 10px;
+}
+.spin {
+  color: white !important;
+}
+.invalid {
+  color: white;
+  margin: 0 auto !important;
+  padding: 8px;
+  text-align: center !important;
+  width: 30%;
+  background-color: red;
+}
+.text-input {
+  width: 45%;
+  height: 5vh;
+}

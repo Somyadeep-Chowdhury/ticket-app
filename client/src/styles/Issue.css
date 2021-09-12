@@ -1,0 +1,177 @@
+.Table thead tr th {
+    border-bottom: 5px #0c5bac solid;
+    color: #0c5bac;
+    font-size: 16px;
+}
+
+.Table thead tr th div,
+span {
+    margin: 0 auto;
+}
+
+.Table tbody tr {
+    cursor: pointer;
+    background: #ffffff !important;
+}
+
+.Table tbody tr td {
+    margin: 0 auto !important;
+    text-align: center !important;
+    padding: 3px !important;
+}
+
+.modal-record {
+    position: absolute;
+    margin: auto;
+    top: 10%;
+    left: 0;
+    right: 0;
+    min-width: 65%
+}
+
+.modal-user {
+    margin-top: 4% !important;
+}
+
+.buttons-submit {
+    margin: 0 auto !important;
+    text-align: center !important;
+}
+
+.issue-btu {
+    background-color: #0c5bac;
+    color: white !important;
+    text-transform: capitalize !important;
+}
+
+.tableheader {
+    font-size: 15px;
+    font-weight: bold;
+    padding: 12px;
+    background-color: #0c5bac;
+    color: rgb(255, 255, 255);
+}
+
+.cardhead {
+    font-weight: bold;
+    font-size: 15px !important;
+}
+
+.rowheader {
+    height: 50px;
+    margin-bottom: 0 !important;
+    margin-right: 1px !important;
+    margin-left: 1px !important;
+    border-radius: 2px !important;
+}
+
+.shiftlabel {
+    padding-left: 1.46px !important;
+}
+
+.date-field {
+    border-radius: 4px !important;
+    height: 34px !important;
+    border: 1px solid rgb(200, 193, 193) !important;
+    border-bottom: 3px solid rgb(200, 193, 193) !important;
+}
+
+.modal-title {
+    font-size: 18px !important;
+    width: 100%;
+}
+
+.modal-secondtit {
+    float: right;
+}
+
+.rowClass {
+    /* border: 6px solid #0c5bac; */
+    height: 7vh;
+    margin-left: 0%;
+    margin-right: 0%;
+    margin-bottom: 3%;
+}
+
+.colClass {
+    border-right: 6px solid #0c5bac;
+}
+
+.colText {
+    text-align: center;
+    padding-top: 15px;
+    font-size: 18px;
+    flex: 0 0 19.966667%;
+    background: #0c5bacb8;
+    color: #fff;
+    font-weight: 600;
+    border-radius: 25px;
+    box-shadow: 1px 1px 7px 0px #00000047;
+    max-width: 19.3% !important;
+    margin: 0 4px;
+}
+
+.text-new {
+    background: #da1e28;
+}
+
+.text-open {
+    background: #ff8533;
+}
+
+.text-wip {
+    background: #f1c21b
+}
+
+.text-closed {
+    background: #24a148;
+}
+
+.NotificationTable thead tr th {
+    border-bottom: 5px #0c5bac solid;
+    color: #0c5bac;
+    font-size: 16px;
+}
+
+.NotificationTable thead tr th div,
+span {
+    margin: 0 auto;
+}
+
+.NotificationTable tbody tr {
+    cursor: pointer;
+}
+
+.NotificationTable tbody td {
+    margin: 0 auto !important;
+    text-align: center !important;
+    padding: 12px !important;
+}
+
+.issue-accordion {
+    border-radius: 20px;
+    height: 60px;
+    padding: 6px 14px;
+    margin: 2px 0px 4px 0px;
+    color: #393939;
+    box-shadow: 0px 2px 3px black;
+    cursor: pointer;
+    display: table;
+    width: 100%;
+    transition: transform 0.5s;
+}
+
+.issue-accordion:hover {
+    -ms-transform: scale(0.99);
+    -webkit-transform: scale(0.99);
+    transform: scale(0.99);
+}
+
+.issue-accordion .card-header {
+    background-color: transparent;
+    border: none;
+}
+
+.modal-content .modal-header .close {
+    color: #0c5bac !important;
+}
